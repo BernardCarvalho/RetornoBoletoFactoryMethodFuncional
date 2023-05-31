@@ -1,0 +1,5 @@
+Principal.class
+com/manoelcampos/retornoboleto/EstrategiaBoletoFactory.class
+com/manoelcampos/retornoboleto/ProcessadorBoletos.class
+com/manoelcampos/retornoboleto/LeituraRetorno.class
+com/manoelcampos/retornoboleto/Boleto.class
